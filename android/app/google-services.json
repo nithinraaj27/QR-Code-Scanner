@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "914782113134",
+    "project_id": "qrcode-c9abd",
+    "storage_bucket": "qrcode-c9abd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914782113134:android:ec141bb92a829c4dc7457f",
+        "android_client_info": {
+          "package_name": "com.nithin.style"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "914782113134-oh2vle7c9us1npbprvh0r57tluubebek.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nithin.style",
+            "certificate_hash": "a956c84bd58a09dd543ce3b215017fc7ba9e2cee"
+          }
+        },
+        {
+          "client_id": "914782113134-9r9trmvrbfn0e2o11bgo76s32ngm9km3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFvN0lQ6GzJtdtOgXQF0vbnk49FQo7bp4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "914782113134-9r9trmvrbfn0e2o11bgo76s32ngm9km3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
